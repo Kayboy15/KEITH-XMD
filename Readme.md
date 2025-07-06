@@ -20,14 +20,11 @@
 
 <p align="center">
 <a href="https://github.com/Kayboy15/KEITH-XMD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=TONIC-MD&label=VIEWS&style=square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=KEITH-XMD&label=VIEWS&style=square&color=blue" />
 </p>
 </p> 
 
-<p align="center">
-  <a href="https://github.com/Kayboy15/KEITH-XMD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
-</p>
-
+<p 
 
 ### 1. Fork This Repository
 
